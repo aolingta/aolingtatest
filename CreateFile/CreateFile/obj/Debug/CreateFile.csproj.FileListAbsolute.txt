@@ -1,0 +1,6 @@
+F:\wooduan\CreateFile\CreateFile\bin\Debug\CreateFile.exe.config
+F:\wooduan\CreateFile\CreateFile\bin\Debug\CreateFile.exe
+F:\wooduan\CreateFile\CreateFile\bin\Debug\CreateFile.pdb
+F:\wooduan\CreateFile\CreateFile\obj\Debug\CreateFile.csprojResolveAssemblyReference.cache
+F:\wooduan\CreateFile\CreateFile\obj\Debug\CreateFile.exe
+F:\wooduan\CreateFile\CreateFile\obj\Debug\CreateFile.pdb

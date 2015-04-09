@@ -1,0 +1,6 @@
+F:\wooduan\SortData\SortData\bin\Debug\SortData.exe.config
+F:\wooduan\SortData\SortData\bin\Debug\SortData.exe
+F:\wooduan\SortData\SortData\bin\Debug\SortData.pdb
+F:\wooduan\SortData\SortData\obj\Debug\SortData.exe
+F:\wooduan\SortData\SortData\obj\Debug\SortData.pdb
+F:\wooduan\SortData\SortData\obj\Debug\SortData.csprojResolveAssemblyReference.cache
